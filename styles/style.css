@@ -48,7 +48,7 @@ header {
   background-image: url(../images/Bitmap.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 1280px 600px;
+  background-size: contain;
   border-radius: 10px;
   margin-bottom: 166px;
 }
@@ -328,7 +328,7 @@ color: #83888F;
 border-radius: 10px;
 background-repeat: no-repeat;
 background-position: center;
-background-size: 1280px 600px;
+background-size: contain;
 padding: 137px 0px;
 padding-left: 85px;
 margin-bottom: 168px;
